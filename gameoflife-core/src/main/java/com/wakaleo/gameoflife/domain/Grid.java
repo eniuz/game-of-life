@@ -108,7 +108,7 @@ public class Grid {
             for (int column = 0; column < getWidth(); column++) {
                 contentCopy[row][column] = cells[row][column];
             }
-# whatever        }
+        }
 
         return contentCopy;
     }
